@@ -19,4 +19,18 @@
             font-family:  Helvetica, sans-serif; 
         }
       
- 
+        h2{
+            color:black;
+        }
+        .pics{
+            width: 350px; 
+            height: auto;
+            margin-right: 20px;
+        }
+        .text-holder{
+            background-color: black;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            width :350px;
+        }
