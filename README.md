@@ -1,0 +1,1 @@
+This is my personal Website that I am creating. This will have an about me and some of the projects that I am working on.It will have interactive links to the other pages. 
